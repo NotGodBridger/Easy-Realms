@@ -1,0 +1,59 @@
+EASY REALMS THIRD-PARTY NOTICES
+===============================
+
+Easy Realms is an independent community project.
+
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR
+MICROSOFT.
+
+Python
+------
+The Windows portable package includes the Python embedded distribution. Its
+license text is included in the bundled runtime as LICENSE.txt.
+https://www.python.org/
+
+Qt for Python / PySide6 / Shiboken6
+-----------------------------------
+The Windows portable package includes the Qt for Python Community Edition,
+PySide6 and Shiboken6 version 6.8.3. They are dynamically loaded from the
+visible `data/runtime` folder so users can inspect or replace the libraries.
+Qt for Python is available under LGPLv3/GPLv3 and commercial licensing. Easy
+Realms uses the Community Edition under LGPLv3. The complete LGPLv3 terms are
+included as LICENSE-LGPL-3.0.txt, while package-specific metadata remains in
+the bundled Python package directories.
+https://doc.qt.io/qtforpython-6/licenses.html
+
+The corresponding Qt for Python source for the bundled version can be
+requested from the Easy Realms publisher through the same release page or
+account that supplied this package. Keep this notice and the licence text with
+redistributed copies.
+
+Minecraft server software and services
+--------------------------------------
+Minecraft server software is downloaded from Mojang or Microsoft at the user's
+request and is subject to the Minecraft EULA and Usage Guidelines. It is not
+bundled in Easy Realms.
+https://www.minecraft.net/eula
+https://www.minecraft.net/usage-guidelines
+
+Minecraft Seven v2 / Mojangles font
+-----------------------------------
+Easy Realms includes the official Minecraft Seven v2 TrueType font published
+by Mojang on minecraft.net and uses it as the ordinary interface typeface.
+The font remains copyright Mojang AB, is not relicensed by Easy Realms and is
+subject to the Minecraft EULA and Usage Guidelines.
+https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/fonts/Minecraft-Seven_v2.ttf
+https://www.minecraft.net/usage-guidelines
+
+Fabric, PaperMC, Modrinth, Eclipse Adoptium and Playit
+------------------------------------------------------
+Easy Realms can connect to these independent providers at the user's request.
+Their software, downloads and services remain subject to their own licences and
+terms. Easy Realms does not claim ownership of them.
+
+User-supplied visual assets
+---------------------------
+The Easy Realms logo, application icon, Minecraft Ten heading font and
+launcher-reference artwork were supplied for this project by its owner. They
+are not relicensed by this notice. The project owner is responsible for
+confirming redistribution rights before broad public distribution.
